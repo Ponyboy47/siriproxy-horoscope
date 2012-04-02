@@ -7,4 +7,4 @@
 ############################################
 
     - name: 'Horoscope' #don't touch
-      path: 'git://github.com/rakusu/siriproxy-horoscope.git' #don't touch
+      path: 'git://github.com/Ponyboy47/siriproxy-horoscope.git' #don't touch
